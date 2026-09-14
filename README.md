@@ -18,3 +18,5 @@ Website interface: https://project-ithealth-group7.web.app/
 Firebase database: https://console.firebase.google.com/u/0/project/project-ithealth-group7/firestore/databases/-default-/data/~2Fecg_records~2FXjKgmm5lCV1dhLgoyQKa
 
 Contact the author for more information about APK app.
+
+This is part 1 of the app, part 2: https://github.com/kai-inko/SpO2-Monitoring-System
